@@ -1,0 +1,2 @@
+kill @s
+summon item ~ ~ ~ {Item:{id:"minecraft:carrot_on_a_stick",Count:1b,tag:{display:{Name:'{"text":"Fire Staff","color":"dark_red","bold":true,"italic":false}'},Unbreakable:1b,CustomModelData:323456,tag:["firestaff"]}}}

@@ -1,0 +1,1 @@
+give @p carrot_on_a_stick{display:{Name:'{"text":"Ice Staff","color":"dark_aqua","bold":true,"italic":false}'},Unbreakable:1b,CustomModelData:987654,tag:["icestaff"]} 1

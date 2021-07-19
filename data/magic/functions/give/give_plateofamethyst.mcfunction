@@ -1,0 +1,1 @@
+give @p leather_chestplate{display:{Name:'{"text":"Plate of Amethyst ","color":"dark_purple","bold":true,"italic":false}',color:11731199},Unbreakable:1b,plateofamethyst:1b,Enchantments:[{id:"protection",lvl:5}]} 1

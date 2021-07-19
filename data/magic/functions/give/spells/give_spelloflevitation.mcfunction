@@ -1,0 +1,1 @@
+give @p book{display:{Name:'{"text":"Spell of Levitation","color":"#003478","bold":true,"italic":false}',Lore:['{"text":"Place this spell in your off-hand and use a wand","bold":false,"italic":true}']},spelloflevitation:1b,Enchantments:[{}]} 1

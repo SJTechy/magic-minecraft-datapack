@@ -1,0 +1,1 @@
+give @p carrot_on_a_stick{display:{Name:'{"text":"Gray Wand","color":"dark_gray","bold":true,"italic":false}'},Unbreakable:1b,CustomModelData:474717,tag:["wand"]} 1

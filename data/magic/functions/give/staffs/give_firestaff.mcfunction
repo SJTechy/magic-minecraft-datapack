@@ -1,0 +1,1 @@
+give @p carrot_on_a_stick{display:{Name:'{"text":"Fire Staff","color":"dark_red","bold":true,"italic":false}'},Unbreakable:1b,CustomModelData:323456,tag:["firestaff"]} 1

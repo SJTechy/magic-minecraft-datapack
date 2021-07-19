@@ -1,0 +1,2 @@
+kill @s
+summon item ~ ~ ~ {Item:{id:"minecraft:book",Count:1b,tag:{Enchantments:[{}],display:{Name:'{"text":"Spell of Levitation","color":"#003478","bold":true,"italic":false}',Lore:['{"text":"Place this spell in your off-hand and use a wand","bold":false,"italic":true}']},Unbreakable:1b,spelloflevitation:1b}}}

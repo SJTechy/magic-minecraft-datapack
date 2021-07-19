@@ -1,0 +1,1 @@
+give @p leather_boots{display:{Name:'{"text":"Boots of Ice","color":"dark_blue","bold":true,"italic":false}',color:40381},Unbreakable:1b,bootsofice:1b,Enchantments:[{id:"minecraft:protection",lvl:4s},{id:"minecraft:frost_walker",lvl:1s}]} 1
