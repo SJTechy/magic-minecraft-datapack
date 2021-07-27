@@ -4,6 +4,10 @@ execute as @a[scores={use_staff=1..},nbt={SelectedItem:{tag:{tag:["firestaff"]}}
 # Ice Staff
 execute as @a[scores={use_staff=1..},nbt={SelectedItem:{tag:{tag:["icestaff"]}}}] at @s run function magic:ice_floor
 
+## Wands
+# End Wand
+execute as @a[scores={use_staff=1..},nbt={SelectedItem:{tag:{tag:["endwand"]}}, OnGround: 1b}] at @s run function magic:endwand
+
 ## Spells
 # Lightning Spell
 execute as @a[scores={use_staff=1..},nbt={SelectedItem:{tag:{tag:["wand"]}},Inventory:[{Slot:-106b,tag:{spelloflightning:1b}}]}] at @s run function magic:lightning_bolt
